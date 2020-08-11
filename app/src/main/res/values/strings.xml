@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyHealthyApp</string>
+    <string name="move_activity">Ayo Jaga Diri!</string>
+    <string name="cara_menjaga_diri_ditengah_pandemi_covid_19">Cara menjaga diri ditengah Pandemi Covid-19</string>
+    <string name="_1_gunakan_masker_jika_berpegian">1.Gunakan Masker jika berpegian</string>
+    <string name="how_to_cuci_tangan">How To Cuci Tangan</string>
+    <string name="cara_mencuci_tangan_dengan_benar">Cara Mencuci Tangan Dengan Benar</string>
+    <string name="_2_rajin_mencuci_tangan">2.Rajin mencuci tangan</string>
+    <string name="_3_lakukan_physical_distancing">3.Lakukan physical distancing</string>
+    <string name="_4_makan_makanan_sehat_dan_bergizi">4.Makan makanan sehat dan bergizi</string>
+    <string name="_5_rutin_melakukan_disinfektan">5.Rutin melakukan disinfektan</string>
+    <string name="how_to_pakai_masker">How To Pakai Masker</string>
+    <string name="pola_hidup_sehat">Pola Hidup Sehat</string>
+    <string name="_1_basahi_tangan_dengan_air">1.Basahi tangan dengan air.</string>
+    <string name="_2_tuang_sabun_pada_tangan_secukupnya_untuk_menutupi_semua_permukaan_tangan">2.Tuang sabun pada tangan secukupnya untuk menutupi semua permukaan tangan.</string>
+    <string name="_3_gosok_telapak_tangan_yang_satu_ke_telapak_tangan_lainnya">3.Gosok telapak tangan yang satu ke telapak tangan lainnya.</string>
+    <string name="_4_gosok_punggung_tangan_dan_sela_jari">4.Gosok punggung tangan dan sela jari.</string>
+    <string name="_5_gosok_punggung_jari_ke_telapak_tangan_dengan_posisi_jari_saling_bertautan">5.Gosok punggung jari ke telapak tangan dengan posisi jari saling bertautan</string>
+    <string name="_6_genggam_dan_basuh_ibu_jari_dengan_posisi_memutar">6.Genggam dan basuh ibu jari dengan posisi memutar.</string>
+    <string name="_7_gosok_bagian_ujung_jari_ke_telapak_tangan_agar_bagian_kuku_terkena_sabun">7.Gosok bagian ujung jari ke telapak tangan agar bagian kuku terkena sabun.</string>
+    <string name="_8_gosok_tangan_yang_bersabun_dengan_air_mengalir">8.Gosok tangan yang bersabun dengan air mengalir</string>
+    <string name="_9_keringkan_tangan_dengan_lap_sekali_pakai">9.Keringkan tangan dengan lap sekali pakai</string>
+    <string name="cara_memakai_masker_dengan_benar">Cara Memakai Masker Dengan Benar</string>
+    <string name="_1_pastikan_ukuran_masker_hidung_cocok_dengan_wajah_anda_tidak_kebesaran_ataupun_kekecilan">1.Pastikan ukuran masker hidung cocok dengan wajah Anda, tidak kebesaran ataupun kekecilan.</string>
+    <string name="_2_mencuci_tangan_dengan_sabun_dan_air_mengalir_atau_hand_sanitizer_terlebih_dahulu_sebelum_memakai_masker">2.Mencuci tangan dengan sabun dan air mengalir atau hand sanitizer terlebih dahulu sebelum memakai masker.</string>
+    <string name="_4_untuk_jenis_masker_karet_anda_hanya_perlu_mengaitkan_tali_karet_di_belakang_kedua_telinga">5..Untuk jenis masker karet, Anda hanya perlu mengaitkan tali karet di belakang kedua telinga.</string>
+    <string name="setelah_masker_sudah_terpasang_aman_di_wajah_cubit_atau_cocokkan_bagian_kawatnya_untuk_mengikuti_lekuk_hidung_anda_agar_masker_lebih_tertutup_rapat">6.Setelah masker sudah terpasang aman di wajah, cubit atau cocokkan bagian kawatnya untuk mengikuti lekuk hidung Anda agar masker lebih tertutup rapat.</string>
+    <string name="apabila_masker_sudah_terpasang_dengan_benar_hindari_menyentuh_masker_jika_ingin_menyentuh_masker_pastikan_untuk_mencuci_tangan_terlebih_dahulu">7.Apabila masker sudah terpasang dengan benar, hindari menyentuh masker. Jika ingin menyentuh masker, pastikan untuk mencuci tangan terlebih dahulu.</string>
+    <string name="cari_sisi_luar_masker_luar_berwarna_hijau_dalam_berwarna_putih">3.Cari sisi luar masker.(luar berwarna hijau,dalam berwarna putih)</string>
+    <string name="tentukan_sisi_atas_masker_biasanya_ditandai_dengan_adanya_garis_kawat_hidung">4.Tentukan sisi atas masker, biasanya ditandai dengan adanya garis kawat hidung.</string>
+    <string name="_1_makan_makanan_sehat_dan_begizi">1.Makan makanan sehat dan begizi</string>
+    <string name="_2_jaga_jam_tidur">2.Jaga jam tidur</string>
+    <string name="_3_olahraga_secara_teratur">3.Olahraga secara teratur</string>
+    <string name="_4_mandi_2x_sehari">4.Mandi 2x sehari</string>
+    <string name="_5_hindari_hal_yang_membuat_stres">5.Hindari hal yang membuat stres</string>
+    <string name="pola_hidup_sehat_menurut_saya">Pola Hidup Sehat Menurut Saya</string>
+</resources>
